@@ -1,0 +1,6 @@
+forta_agent>=0.1.15
+setuptools==67.7.0
+hexbytes~=0.3.0
+pandas~=2.0.0
+web3==6.2.0
+rlp~=3.0.0
